@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+logging
+python-dotenv
+jinja2
